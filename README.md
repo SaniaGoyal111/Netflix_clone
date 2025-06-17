@@ -4,6 +4,7 @@
 This is a Netflix landing page clone built as a part of my learning journey using HTML and CSS. I followed along with CodeWithHarry's YouTube tutorial to understand the basics of front-end web development, including layout, styling, and responsive design.
 
 🚀 What I Learned:
+
 Structuring webpages using HTML5
 
 Styling and layout using CSS3
